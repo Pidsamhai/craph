@@ -1,0 +1,3 @@
+include ':craph'
+include ':app'
+rootProject.name = "Craph"

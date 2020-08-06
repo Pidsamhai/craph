@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="craph_line_width">3dp</dimen>
+    <dimen name="craph_dotRadius">10dp</dimen>
+</resources>

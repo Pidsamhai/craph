@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineChart">
+        <attr name="craph_line_width" format="dimension"/>
+        <attr name="craph_dotRadius" format="dimension"/>
+        <attr name="craph_dot_width" format="dimension"/>
+
+        <attr name="craph_xAxis_label" format="string"/>
+        <attr name="craph_yAxis_label" format="string"/>
+
+        <attr name="craph_line_color" format="color"/>
+        <attr name="craph_dotColor" format="color"/>
+        <attr name="craph_yAxis_color" format="color"/>
+        <attr name="craph_xAxis_color" format="color"/>
+        <attr name="craph_yAxis_label_color" format="color"/>
+        <attr name="craph_xAxis_label_color" format="color"/>
+        <attr name="craph_bgColor" format="color"/>
+        <attr name="craph_vGridColor" format="color"/>
+        <attr name="craph_hGridColor" format="color"/>
+
+        <attr name="dot_style"/>
+    </declare-styleable>
+    <attr name="dot_style" format="enum">
+        <enum name="fill" value="1"/>
+        <enum name="stroke" value="2"/>
+    </attr>
+</resources>

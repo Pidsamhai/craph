@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grid_color">#666666</color>
+    <color name="craph_bgColor">#eeeeee</color>
+    <color name="craph_line_color">#000000</color>
+    <color name="craph_yAxis_color">#000000</color>
+    <color name="craph_xAxis_color">#000000</color>
+    <color name="craph_yAxis_label_color">#000000</color>
+    <color name="craph_xAxis_label_color">#000000</color>
+    <color name="craph_vGridColor">@color/grid_color</color>
+    <color name="craph_hGridColor">@color/grid_color</color>
+</resources>
